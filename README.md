@@ -22,8 +22,6 @@ After taking a look at the application, you have assesed that you need to comple
 - Make sure that each component has at least one test written for it, and that it tests functionality of that component. (You may use any testing library you are comfortable with, jest is included).
 - Hooks are the wave of the future, implement a hook of your choice in this application.
 
-- BONUS: Remove "Immutability Helper" from the project. 
-
 #### Helpful Hints & Constraints
 
 - **ListContainer** is already a Container component that is aware of the redux store as well as the dispatch. There is no need to create another container out of the other components that you will need to finish.
